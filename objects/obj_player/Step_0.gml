@@ -45,7 +45,10 @@ if (prevY > y) {
 //Tracking closest interactive in range
 var interactive_close = instance_nearest(x, y, obj_interactiveBase)
 if (interactive_close 
-	&& distance_to_object(interactive_close) < interact_range
-	&& keyboard_check(ord("E"))) {
-	interactive_close.interacted = true
+	&& distance_to_object(interactive_close) < interact_range) {
+	interactive_close.in_range = true
+	
+	if keyboard_check(ord("E")) {
+		interactive_close.interacted = true
+	}
 }

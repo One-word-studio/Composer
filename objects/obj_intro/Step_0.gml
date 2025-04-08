@@ -36,3 +36,8 @@ switch (fade_state) {
 
 // Ensure alpha is within valid range
 image_alpha = clamp(image_alpha, 0, 1);
+
+//Skip Intro
+if (keyboard_check_released(vk_space)) {
+	room_goto(Main);	
+}
