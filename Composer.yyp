@@ -64,6 +64,7 @@
     {"id":{"name":"spr_composorUpIdle","path":"sprites/spr_composorUpIdle/spr_composorUpIdle.yy",},},
     {"id":{"name":"spr_editorPlaceholder","path":"sprites/spr_editorPlaceholder/spr_editorPlaceholder.yy",},},
     {"id":{"name":"spr_intro","path":"sprites/spr_intro/spr_intro.yy",},},
+    {"id":{"name":"spr_inventory","path":"sprites/spr_inventory/spr_inventory.yy",},},
     {"id":{"name":"spr_placeHolderInteractive","path":"sprites/spr_placeHolderInteractive/spr_placeHolderInteractive.yy",},},
     {"id":{"name":"spr_playerDown","path":"sprites/spr_playerDown/spr_playerDown.yy",},},
     {"id":{"name":"spr_playerDownIdle","path":"sprites/spr_playerDownIdle/spr_playerDownIdle.yy",},},

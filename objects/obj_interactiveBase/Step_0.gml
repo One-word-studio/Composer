@@ -1,5 +1,5 @@
 if (interacted) {
-	instance_destroy(self)	
+	event_user(0)	
 }
 
 if (in_range) {
