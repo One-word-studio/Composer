@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_composorUpIdle",
-    "path":"sprites/spr_composorUpIdle/spr_composorUpIdle.yy",
+    "name":"spr_composerUpIdle",
+    "path":"sprites/spr_composerUpIdle/spr_composerUpIdle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
