@@ -17,6 +17,11 @@ if keyboard_check(vk_right) {
 	check_and_move(self, move_speed, 0)
 }
 
+var number_key = string_digits(keyboard_lastchar)
+if string_length(number_key) {
+	selected_slot = (number_key % 5)
+}
+
 /* 
  Set player walking sprite based on movement
  If movement along an axis didn't change but sprite facing that axis

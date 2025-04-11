@@ -53,6 +53,7 @@
     {"id":{"name":"Main","path":"rooms/Main/Main.yy",},},
     {"id":{"name":"abstracts","path":"scripts/abstracts/abstracts.yy",},},
     {"id":{"name":"sh_whiteout","path":"shaders/sh_whiteout/sh_whiteout.yy",},},
+    {"id":{"name":"background_spr","path":"sprites/background_spr/background_spr.yy",},},
     {"id":{"name":"spr_button_credits","path":"sprites/spr_button_credits/spr_button_credits.yy",},},
     {"id":{"name":"spr_button_play","path":"sprites/spr_button_play/spr_button_play.yy",},},
     {"id":{"name":"spr_button_quit","path":"sprites/spr_button_quit/spr_button_quit.yy",},},

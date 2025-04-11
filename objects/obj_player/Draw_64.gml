@@ -1,1 +1,1 @@
-draw_sprite_stretched(spr_inventory, -1, 960, 1080, 200, )
+draw_sprite_ext(spr_inventory, selected_slot, 960, 1075, 5, 5, 0, c_white, 1)
