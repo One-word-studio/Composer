@@ -19,7 +19,9 @@ if keyboard_check(vk_right) {
 
 var number_key = string_digits(keyboard_lastchar)
 if string_length(number_key) {
-	selected_slot = (number_key % 5)
+	if number_key > 0 && number_key < 3 {
+		selected_slot = number_key
+	}
 }
 
 /* 
