@@ -1,0 +1,1 @@
+image_angle = obj_dialDot.targetRotation;
