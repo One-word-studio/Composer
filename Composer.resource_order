@@ -1,4 +1,9 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_dialBase","order":1,"path":"objects/obj_dialBase/obj_dialBase.yy",},
+    {"name":"obj_dialDot","order":2,"path":"objects/obj_dialDot/obj_dialDot.yy",},
+    {"name":"spr_placeHolderDialBase","order":1,"path":"sprites/spr_placeHolderDialBase/spr_placeHolderDialBase.yy",},
+    {"name":"spr_placeHolderDialDot","order":2,"path":"sprites/spr_placeHolderDialDot/spr_placeHolderDialDot.yy",},
+  ],
 }
