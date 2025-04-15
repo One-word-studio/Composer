@@ -1,6 +1,6 @@
 randomize();
 rotationSpeed = -90;
-active = true;
+active = false;
 solved = false;
 targetRotation = random_range(0, 360);
 /*show_debug_log(true);

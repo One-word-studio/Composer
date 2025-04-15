@@ -10,8 +10,8 @@
   "name":"obj_dialDot",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Dial Puzzle",
+    "path":"folders/Objects/Dial Puzzle.yy",
   },
   "parentObjectId":null,
   "persistent":false,

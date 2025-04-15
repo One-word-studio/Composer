@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dialBase",
+  "%Name":"obj_dialController",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_dialBase",
+  "name":"obj_dialController",
   "overriddenProperties":[],
   "parent":{
     "name":"Dial Puzzle",
     "path":"folders/Objects/Dial Puzzle.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_interactiveBase",
+    "path":"objects/obj_interactiveBase/obj_interactiveBase.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_placeHolderDialBase",
-    "path":"sprites/spr_placeHolderDialBase/spr_placeHolderDialBase.yy",
+    "name":"spr_placeHolderInteractive",
+    "path":"sprites/spr_placeHolderInteractive/spr_placeHolderInteractive.yy",
   },
   "spriteMaskId":null,
   "visible":true,
