@@ -1,4 +1,4 @@
-if instance_exists(obj_player) && keyboard_check_pressed(vk_space)
+if instance_exists(obj_player) && keyboard_check_pressed(ord("F"))
 {
     if mp_grid_path(grid, path, x, y, obj_player.x, obj_player.y, 0)
     {

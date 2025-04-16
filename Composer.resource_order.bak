@@ -3,7 +3,6 @@
     {"name":"Dial Puzzle","order":3,"path":"folders/Objects/Dial Puzzle.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_dev","order":4,"path":"objects/obj_dev/obj_dev.yy",},
     {"name":"obj_dialController","order":2,"path":"objects/obj_dialController/obj_dialController.yy",},
     {"name":"obj_dialDot","order":1,"path":"objects/obj_dialDot/obj_dialDot.yy",},
     {"name":"spr_placeHolderDialBase","order":1,"path":"sprites/spr_placeHolderDialBase/spr_placeHolderDialBase.yy",},
