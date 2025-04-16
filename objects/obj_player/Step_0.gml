@@ -59,3 +59,5 @@ if (interactive_close
 		interactive_close.interacted = true
 	}
 }
+
+audio_listener_position(x, y, 0);
