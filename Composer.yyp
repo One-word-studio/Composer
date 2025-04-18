@@ -59,7 +59,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_puzzle_controller","path":"objects/obj_puzzle_controller/obj_puzzle_controller.yy",},},
     {"id":{"name":"obj_quit_button","path":"objects/obj_quit_button/obj_quit_button.yy",},},
-    {"id":{"name":"obj_tune_player","path":"objects/obj_tune_player/obj_tune_player.yy",},},
+    {"id":{"name":"obj_tunePlayer","path":"objects/obj_tunePlayer/obj_tunePlayer.yy",},},
     {"id":{"name":"End","path":"rooms/End/End.yy",},},
     {"id":{"name":"Game","path":"rooms/Game/Game.yy",},},
     {"id":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},

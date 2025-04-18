@@ -12,7 +12,7 @@
     {"name":"obj_dev","order":4,"path":"objects/obj_dev/obj_dev.yy",},
     {"name":"obj_dialController","order":2,"path":"objects/obj_dialController/obj_dialController.yy",},
     {"name":"obj_dialDot","order":1,"path":"objects/obj_dialDot/obj_dialDot.yy",},
-    {"name":"obj_tune_player","order":1,"path":"objects/obj_tune_player/obj_tune_player.yy",},
+    {"name":"obj_tunePlayer","order":6,"path":"objects/obj_tunePlayer/obj_tunePlayer.yy",},
     {"name":"snd_crystal_A","order":1,"path":"sounds/snd_crystal_A/snd_crystal_A.yy",},
     {"name":"snd_crystal_B","order":2,"path":"sounds/snd_crystal_B/snd_crystal_B.yy",},
     {"name":"snd_crystal_C","order":3,"path":"sounds/snd_crystal_C/snd_crystal_C.yy",},

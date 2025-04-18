@@ -1,2 +1,7 @@
-// Reset interacted flag each step to detect new presses
-interacted = false;
+if (interacted) {
+	event_user(0)	
+}
+
+if (in_range) {
+	in_range = false	
+}
