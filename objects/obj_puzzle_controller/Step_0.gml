@@ -1,10 +1,10 @@
-if (!puzzle_solved && player_sequence.length > 0) {
-    current_time++;
+if (!puzzle_solved && array_length(player_sequence) > 0) {
+    curr_time++;
     
     // Check for timeout
-    if (current_time >= sequence_timeout) {
+    if (curr_time >= sequence_timeout) {
         audio_play_sound(snd_error, 1, false);
         player_sequence = [];
-        current_time = 0;
+        curr_time = 0;
     }
 }

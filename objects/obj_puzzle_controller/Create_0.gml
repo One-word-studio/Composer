@@ -2,7 +2,7 @@
 puzzle_sequence = ["B", "C", "A", "D", "B", "C"]; // BCADBC
 player_sequence = [];
 sequence_timeout = 30 * room_speed; // 30 seconds in frames
-current_time = 0;
+curr_time = 0;
 puzzle_solved = false;
 
 // Sound references
