@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Code Puzzle","order":6,"path":"folders/Objects/Code Puzzle.yy",},
     {"name":"Composer","order":7,"path":"folders/Objects/Composer.yy",},
     {"name":"Dial Puzzle","order":3,"path":"folders/Objects/Dial Puzzle.yy",},
     {"name":"Puzzle1","order":5,"path":"folders/Objects/Puzzle1.yy",},
@@ -7,6 +8,7 @@
     {"name":"TilesetSprites","order":5,"path":"folders/Sprites/TilesetSprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_codePuzzle","order":1,"path":"objects/obj_codePuzzle/obj_codePuzzle.yy",},
     {"name":"obj_crystal_A","order":2,"path":"objects/obj_crystal_A/obj_crystal_A.yy",},
     {"name":"obj_crystal_B","order":3,"path":"objects/obj_crystal_B/obj_crystal_B.yy",},
     {"name":"obj_crystal_C","order":4,"path":"objects/obj_crystal_C/obj_crystal_C.yy",},
