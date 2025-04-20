@@ -1,3 +1,6 @@
+current_index = 0;
+is_playing_sequence = true;
+alarm[0] = 1;
 if (is_playing_sequence) exit; // prevent spam during playback
 
 global.last_interaction_time = current_time;
@@ -14,7 +17,5 @@ for (var i = 0; i < string_length(global.correct_sequence); i++) {
     array_push(sound_queue, snd);
 }
 
-// Start playback from the beginning
-current_index = 0;
-is_playing_sequence = true;
-alarm[0] = 1;
+
+interacted = false;

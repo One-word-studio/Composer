@@ -17,3 +17,4 @@ if (string_length(global.player_sequence) == string_length(global.correct_sequen
         global.player_sequence = "";
     }
 }
+interacted = false;

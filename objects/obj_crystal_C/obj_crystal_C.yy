@@ -15,8 +15,8 @@
     "path":"folders/Objects/Puzzle1.yy",
   },
   "parentObjectId":{
-    "name":"obj_interactiveBase",
-    "path":"objects/obj_interactiveBase/obj_interactiveBase.yy",
+    "name":"obj_crystal_A",
+    "path":"objects/obj_crystal_A/obj_crystal_A.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -34,7 +34,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_crystal_C",
     "path":"sprites/spr_crystal_C/spr_crystal_C.yy",
