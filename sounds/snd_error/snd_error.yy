@@ -12,8 +12,8 @@
   "duration":0.835918,
   "name":"snd_error",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"CrystalPuzzle",
+    "path":"folders/Sounds/CrystalPuzzle.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

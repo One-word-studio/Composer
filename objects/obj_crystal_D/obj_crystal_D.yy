@@ -14,7 +14,10 @@
     "name":"Puzzle1",
     "path":"folders/Objects/Puzzle1.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_interactiveBase",
+    "path":"objects/obj_interactiveBase/obj_interactiveBase.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

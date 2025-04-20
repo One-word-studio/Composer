@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_crystal_C",
+  "%Name":"snd_B",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,16 +10,16 @@
   "compression":0,
   "conversionMode":0,
   "duration":1.071,
-  "name":"snd_crystal_C",
+  "name":"snd_B",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"CrystalPuzzle",
+    "path":"folders/Sounds/CrystalPuzzle.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_crystal_C.MP3",
+  "soundFile":"snd_B.MP3",
   "type":0,
   "volume":1.0,
 }

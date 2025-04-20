@@ -1,6 +1,4 @@
-// Each crystal should have its note assigned
 
-note = "C";
-sound_note = snd_crystal_A;
+key_letter = "c";
+interacted = false; // Explicit interaction flag
 in_range = false;
-interacted = false;

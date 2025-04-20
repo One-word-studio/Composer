@@ -1,18 +1,18 @@
-// Puzzle configuration
-puzzle_sequence = ["B", "C", "A", "D", "B", "C"]; // BCADBC
-player_sequence = [];
-sequence_timeout = 30 * room_speed; // 30 seconds in frames
-curr_time = 0;
-puzzle_solved = false;
+// Note sounds map
+global.note_sounds = ds_map_create();
+ds_map_add(global.note_sounds, "A", snd_A);
+ds_map_add(global.note_sounds, "B", snd_B);
+ds_map_add(global.note_sounds, "C", snd_C);
+ds_map_add(global.note_sounds, "D", snd_D);
 
-// Sound references
-sound_a = snd_crystal_A;
-sound_b = snd_crystal_B;
-sound_c = snd_crystal_C;
-sound_d = snd_crystal_D;
-sound_success = snd_success;
-sound_fail = snd_error;
+// Generate random correct sequence
+global.correct_sequence = "";
+var len = 6;
+for (var i = 0; i < len; i++) {
+    var pick = choose("A", "B", "C", "D");
+    global.correct_sequence += pick;
+}
 
-// Object references
-chest = noone;
-tune_player = noone;
+global.player_sequence = "";
+global.puzzle_complete = false;
+global.last_interaction_time = current_time;
