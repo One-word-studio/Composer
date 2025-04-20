@@ -1,4 +1,4 @@
-if (interacted) {
+if (active and interacted) {
 	event_user(0)	
 }
 

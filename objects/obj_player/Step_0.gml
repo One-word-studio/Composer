@@ -1,20 +1,22 @@
 var prevX = x
 var prevY = y
 
-if keyboard_check(vk_up) {
-	check_and_move(self, 0, -move_speed)
-}
+if visible {
+	if keyboard_check(vk_up) {
+		check_and_move(self, 0, -move_speed)
+	}
 
-if keyboard_check(vk_down) {
-	check_and_move(self, 0, move_speed)
-}
+	if keyboard_check(vk_down) {
+		check_and_move(self, 0, move_speed)
+	}
 
-if keyboard_check(vk_left) {
-	check_and_move(self, -move_speed, 0)
-}
+	if keyboard_check(vk_left) {
+		check_and_move(self, -move_speed, 0)
+	}
 
-if keyboard_check(vk_right) {
-	check_and_move(self, move_speed, 0)
+	if keyboard_check(vk_right) {
+		check_and_move(self, move_speed, 0)
+	}
 }
 
 var number_key = string_digits(keyboard_lastchar)
@@ -55,7 +57,7 @@ if (interactive_close
 	&& distance_to_object(interactive_close) < interact_range) {
 	interactive_close.in_range = true
 	
-	if keyboard_check(ord("E")) {
+	if keyboard_check_released(ord("E")) {
 		interactive_close.interacted = true
 	}
 }

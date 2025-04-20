@@ -7,3 +7,10 @@ prevY = 9999
 
 emitter = audio_emitter_create();
 audio_emitter_falloff(emitter, 100, 2500, 1)
+
+target = noone
+chasing = false
+search = 0
+going_back = false
+//Unit circle format
+angle = 0
