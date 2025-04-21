@@ -56,7 +56,7 @@
     {"id":{"name":"obj_crystal_B","path":"objects/obj_crystal_B/obj_crystal_B.yy",},},
     {"id":{"name":"obj_crystal_C","path":"objects/obj_crystal_C/obj_crystal_C.yy",},},
     {"id":{"name":"obj_crystal_D","path":"objects/obj_crystal_D/obj_crystal_D.yy",},},
-    {"id":{"name":"obj_dev","path":"objects/obj_dev/obj_dev.yy",},},
+    {"id":{"name":"obj_devGlobal","path":"objects/obj_devGlobal/obj_devGlobal.yy",},},
     {"id":{"name":"obj_dialBase","path":"objects/obj_dialBase/obj_dialBase.yy",},},
     {"id":{"name":"obj_dialController","path":"objects/obj_dialController/obj_dialController.yy",},},
     {"id":{"name":"obj_dialDot","path":"objects/obj_dialDot/obj_dialDot.yy",},},
