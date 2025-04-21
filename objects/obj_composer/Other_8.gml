@@ -1,3 +1,5 @@
+if (paused) { return }
+
 if going_back {
 	sprite_index = spr_composerUp
 	angle = 90

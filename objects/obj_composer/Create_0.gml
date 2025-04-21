@@ -13,4 +13,6 @@ chasing = false
 search = 0
 going_back = false
 //Unit circle format
-angle = 0
+angle = 90
+
+paused = false
