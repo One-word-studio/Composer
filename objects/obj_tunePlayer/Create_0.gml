@@ -1,6 +1,5 @@
-// Each crystal should have its note assigned
-
-note = "A";
-sound_note = snd_crystal_A;
-in_range = false;
+sound_queue = [];
+current_index = 0;
 interacted = false;
+in_range = false;
+is_playing_sequence = false;

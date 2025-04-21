@@ -1,1 +1,1 @@
-room_goto(End)
+room_goto(Lose);
