@@ -49,7 +49,6 @@
   "resources":[
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
-    {"id":{"name":"obj_codeController","path":"objects/obj_codeController/obj_codeController.yy",},},
     {"id":{"name":"obj_codePuzzle","path":"objects/obj_codePuzzle/obj_codePuzzle.yy",},},
     {"id":{"name":"obj_composer","path":"objects/obj_composer/obj_composer.yy",},},
     {"id":{"name":"obj_crystal_A","path":"objects/obj_crystal_A/obj_crystal_A.yy",},},

@@ -21,7 +21,7 @@ if (interacted) {
 
     // Enter
     if (keyboard_check_pressed(vk_enter)) {
-        if (inputString == obj_codeController.code) {
+        if (inputString == obj_devGlobal.code) {
             show_message("Correct! Unlocked!");
             // Do unlock logic here
             active = false;

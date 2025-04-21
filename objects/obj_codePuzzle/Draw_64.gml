@@ -7,7 +7,7 @@ if (active and interacted) {
     draw_set_valign(fa_middle);
     draw_text(viewW / 2, viewH / 2, "Enter Code: " + inputString);	
 
-	draw_text(100, 100, "TEST CODE: " + obj_codeController.code);	
+	draw_text(100, 100, "TEST CODE: " + obj_devGlobal.code);	
 }
 	
 	
