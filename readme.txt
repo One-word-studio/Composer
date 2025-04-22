@@ -43,20 +43,78 @@ For testing purposes, use the following command:
 Alt + P: Pause composer movement
 
 4. Licensing Information
-Main Menu Background
-Source: Generated using DALL·E by OpenAI
-In-Game Backgrounds & Props
-Source: DALL·E AI image generator
-Edited for contrast, brightness, and visual consistency
-Sound Effects
-Source: Freesound.org (Public Domain & CC0)
-Examples: creaking doors, piano keys, ambient whispers
-Font (Game Title & UI)
-Source: Google Fonts – Special Elite
-Composer Character Sprite & Chase Music
-Created by Composer development team
-Puzzle Icons & UI Buttons
-Source: Kenney.nl (CC0 Assets Pack)
-All other in-game assets, code, animations, and audio were created by the Composer development team.
-All assets comply with their respective licenses.
 
+Main Menu Background
+
+Source: Generated using DALL·E by OpenAI
+
+In-Game Backgrounds & Props
+
+Source: DALL·E AI image generator
+
+Edited for contrast, brightness, and visual consistency
+
+Top-Down Tileset
+
+Medieval Library Tileset (MVMZ Layout)
+
+https://mftinyturtle.itch.io/medieval-library-tileset-mvmz-layout
+
+Main Character Sprite
+
+NPC Character Male 02
+
+https://nectanebo.itch.io/npc-character-male-02
+
+Composer Enemy NPC
+
+Top-Down Character
+
+https://nectanebo.itch.io/top-down-character
+
+Inventory UI
+
+Kasaya’s Inventory and Frames
+
+https://kasayaa.itch.io/kasayas-inventory-and-frames
+
+Inventory Items
+
+Idylwild’s Arcanum
+
+https://idylwild.itch.io/idylwilds-arcanum
+
+Inventory Food Items
+
+Applesauce’s Apples and Sauce Food Pack
+
+https://applesauce-tree.itch.io/applesauces-apples-and-sauce-food-pack
+
+UI Elements
+
+UI User Interface Pack – Horror
+
+https://toffeecraft.itch.io/ui-user-interface-pack-horror
+
+Sound Effects
+
+Must-Have Horror Sound Effects
+
+https://yourpalrob.itch.io/must-have-horror-sound-effects
+
+Additional sounds: https://freesound.org (Public Domain & Creative Commons 0)
+
+Fonts
+
+Special Elite (Google Fonts)
+
+https://fonts.google.com/specimen/Special+Elite
+
+Other Assets
+
+Puzzle Icons & UI Buttons: Kenney CC0 Assets Pack
+
+https://kenney.nl/assets
+
+Note:
+All other in-game assets, code, animations, and music were created by the Composer development team. All assets listed above are used in accordance with their respective license terms (CC0, public domain, royalty-free, or redistribution-permitted licenses).
