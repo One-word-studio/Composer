@@ -1,8 +1,12 @@
+var camera_x = clamp(x, 256, 1664);
+var camera_y = clamp(y, 151, 935);
+camera_set_view_pos(view_camera[0], camera_x - 256, camera_y - 151)
+
 var prevX = x
 var prevY = y
 
 if visible {
-	if keyboard_check(vk_up) {
+	if keyboard_check(vk_up) {  
 		check_and_move(self, 0, -move_speed)
 	}
 

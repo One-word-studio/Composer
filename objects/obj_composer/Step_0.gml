@@ -1,7 +1,3 @@
-if keyboard_check_released(ord("P")) {
-	paused = !paused
-}
-
 if (paused) {
 	path_speed = 0;
 	return

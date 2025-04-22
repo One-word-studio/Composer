@@ -19,6 +19,7 @@
     {"$GMFolder":"","%Name":"Code Puzzle","folderPath":"folders/Objects/Code Puzzle.yy","name":"Code Puzzle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Composer","folderPath":"folders/Objects/Composer.yy","name":"Composer","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Dial Puzzle","folderPath":"folders/Objects/Dial Puzzle.yy","name":"Dial Puzzle","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Slot Puzzle","folderPath":"folders/Objects/Slot Puzzle.yy","name":"Slot Puzzle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Puzzle1","folderPath":"folders/Objects/Puzzle1.yy","name":"Puzzle1","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"WinLose Screen","folderPath":"folders/Objects/WinLose Screen.yy","name":"WinLose Screen","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},

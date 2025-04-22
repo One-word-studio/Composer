@@ -502,9 +502,9 @@
   },
   "sequenceId":null,
   "views":[
-    {"hborder":960,"hport":1080,"hspeed":-1,"hview":302,"inherit":false,"objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"vborder":540,"visible":true,"vspeed":-1,"wport":1920,"wview":512,"xport":0,"xview":450,"yport":0,"yview":242,},
+    {"hborder":960,"hport":1080,"hspeed":-1,"hview":302,"inherit":false,"objectId":null,"vborder":540,"visible":true,"vspeed":-1,"wport":1920,"wview":512,"xport":0,"xview":1450,"yport":0,"yview":742,},
     {"hborder":960,"hport":1080,"hspeed":0,"hview":180,"inherit":false,"objectId":{"name":"obj_dialBase","path":"objects/obj_dialBase/obj_dialBase.yy",},"vborder":540,"visible":false,"vspeed":0,"wport":1920,"wview":320,"xport":0,"xview":1976,"yport":0,"yview":880,},
-    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":1080,"hspeed":-1,"hview":180,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1920,"wview":320,"xport":0,"xview":1976,"yport":0,"yview":180,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
