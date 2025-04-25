@@ -1,0 +1,1 @@
+draw_text_transformed(x, y, text, .6, .6, 0);
