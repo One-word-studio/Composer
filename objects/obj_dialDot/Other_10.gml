@@ -1,0 +1,1 @@
+targetRotation = random_range(0, 360);

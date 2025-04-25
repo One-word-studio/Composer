@@ -4,8 +4,18 @@ if (!solved and active) {
 		active = false;
 		alarm_set(0, 30);
 		if (abs(angle_difference(image_angle, targetRotation)) < 15) {
-			solved = true;
+			completions++;
 			image_alpha = 0.2;
+			// Dial puzzle completed
+			if (completions == 3) {
+				solved = true;
+				view_visible[0] = true;
+				view_visible[1] = false;
+			}
+			// More completions required
+			else {
+				event_user(0);
+			}
 		}
 	}
 }
