@@ -19,5 +19,3 @@ if (!solved and active) {
 		}
 	}
 }
-show_debug_log(true)
-show_debug_message(active)
