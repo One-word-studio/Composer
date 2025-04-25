@@ -53,6 +53,7 @@
     {"name":"inst_20EA9863","path":"rooms/Game/Game.yy",},
     {"name":"inst_6532B325","path":"rooms/Game/Game.yy",},
     {"name":"inst_4F8D71EE","path":"rooms/Game/Game.yy",},
+    {"name":"inst_193F07DC","path":"rooms/Game/Game.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -122,6 +123,7 @@
         {"$GMRInstance":"v1","%Name":"inst_4F8D71EE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4F8D71EE","objectId":{"name":"obj_tutorialText","path":"objects/obj_tutorialText/obj_tutorialText.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_tutorialText","path":"objects/obj_tutorialText/obj_tutorialText.yy",},"propertyId":{"name":"text","path":"objects/obj_tutorialText/obj_tutorialText.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Use '1' and '2' to toggle inventory slots",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1632.0,"y":832.0,},
+        {"$GMRInstance":"v1","%Name":"inst_193F07DC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_193F07DC","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":2.3333333,"x":1360.0,"y":805.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Blocks","depth":300,"effectEnabled":true,"effectType":"_filter_edgedetect","gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_63F66D4F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_63F66D4F","objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":18.666668,"scaleY":1.0,"x":1024.0,"y":1040.0,},
