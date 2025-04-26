@@ -50,6 +50,7 @@
   "name":"Composer",
   "resources":[
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
+    {"id":{"name":"obj_blockClear","path":"objects/obj_blockClear/obj_blockClear.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"obj_codePuzzle","path":"objects/obj_codePuzzle/obj_codePuzzle.yy",},},
     {"id":{"name":"obj_composer","path":"objects/obj_composer/obj_composer.yy",},},

@@ -41,7 +41,7 @@ if (deltaY > 1) {
 
 if obj_player.visible and 
 	not collision_line(x, y, obj_player.x, obj_player.y, obj_block, false, false) {
-	
+		
 	var direction_to_player = point_direction (x, y-35, obj_player.x , obj_player.y);
     var angleToTarget = angle_difference(direction_to_player, angle);
 	if (abs(angleToTarget) < 60 + chasing * 10) {

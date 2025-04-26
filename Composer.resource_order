@@ -12,6 +12,7 @@
     {"name":"TilesetSprites","order":5,"path":"folders/Sprites/TilesetSprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_blockClear","order":16,"path":"objects/obj_blockClear/obj_blockClear.yy",},
     {"name":"obj_codePuzzle","order":1,"path":"objects/obj_codePuzzle/obj_codePuzzle.yy",},
     {"name":"obj_crystal_A","order":2,"path":"objects/obj_crystal_A/obj_crystal_A.yy",},
     {"name":"obj_crystal_B","order":3,"path":"objects/obj_crystal_B/obj_crystal_B.yy",},
