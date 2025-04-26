@@ -18,3 +18,4 @@ going_back = false
 angle = 90
 
 paused = false
+player_hidden = false
