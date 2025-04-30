@@ -13,6 +13,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_blockClear","order":16,"path":"objects/obj_blockClear/obj_blockClear.yy",},
+    {"name":"obj_clockEmitter","order":17,"path":"objects/obj_clockEmitter/obj_clockEmitter.yy",},
     {"name":"obj_codePuzzle","order":1,"path":"objects/obj_codePuzzle/obj_codePuzzle.yy",},
     {"name":"obj_crystal_A","order":2,"path":"objects/obj_crystal_A/obj_crystal_A.yy",},
     {"name":"obj_crystal_B","order":3,"path":"objects/obj_crystal_B/obj_crystal_B.yy",},
@@ -32,6 +33,7 @@
     {"name":"obj_tunePlayer","order":6,"path":"objects/obj_tunePlayer/obj_tunePlayer.yy",},
     {"name":"obj_tutorialText","order":15,"path":"objects/obj_tutorialText/obj_tutorialText.yy",},
     {"name":"sh_greyout","order":1,"path":"shaders/sh_greyout/sh_greyout.yy",},
+    {"name":"snd_clock","order":3,"path":"sounds/snd_clock/snd_clock.yy",},
     {"name":"snd_composerStep","order":1,"path":"sounds/snd_composerStep/snd_composerStep.yy",},
     {"name":"snd_error","order":6,"path":"sounds/snd_error/snd_error.yy",},
     {"name":"snd_playerStep","order":2,"path":"sounds/snd_playerStep/snd_playerStep.yy",},

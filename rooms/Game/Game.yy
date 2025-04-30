@@ -101,6 +101,7 @@
     {"name":"inst_783C7CBF","path":"rooms/Game/Game.yy",},
     {"name":"inst_33AFC642","path":"rooms/Game/Game.yy",},
     {"name":"inst_59190DD7","path":"rooms/Game/Game.yy",},
+    {"name":"inst_5F7F0B9C","path":"rooms/Game/Game.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -208,6 +209,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_tutorialText","path":"objects/obj_tutorialText/obj_tutorialText.yy",},"propertyId":{"name":"text","path":"objects/obj_tutorialText/obj_tutorialText.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Use '1' and '2' to toggle inventory slots",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1632.0,"y":832.0,},
         {"$GMRInstance":"v1","%Name":"inst_193F07DC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_193F07DC","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":2.3333333,"x":1360.0,"y":805.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5F7F0B9C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5F7F0B9C","objectId":{"name":"obj_clockEmitter","path":"objects/obj_clockEmitter/obj_clockEmitter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":633.0,"y":360.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_below","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_4AF83E0D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4AF83E0D","objectId":{"name":"obj_hide","path":"objects/obj_hide/obj_hide.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1408.0,"y":672.0,},
