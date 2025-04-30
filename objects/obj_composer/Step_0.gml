@@ -53,12 +53,12 @@ if obj_player.visible and
 }
 
 if (!string_ends_with(sprite_get_name(sprite_index), "Idle")) {
-	if !audio_is_playing(snd_step) {
+	if !audio_is_playing(snd_composerStep) {
 		//audio_play_sound(snd_step, 1, 1)
-		audio_play_sound_on(emitter, snd_step, false, 1)
+		audio_play_sound_on(emitter, snd_composerStep, false, 1)
 	}
 } else {
-	audio_stop_sound(snd_step)
+	audio_stop_sound(snd_composerStep)
 }
 audio_emitter_position(emitter, x, y, 0);
 

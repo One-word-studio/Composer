@@ -66,4 +66,14 @@ if (interactive_close
 	}
 }
 
+// Play walking sounds
+if (!string_ends_with(sprite_get_name(sprite_index), "Idle")) {
+	if !audio_is_playing(snd_playerStep) {
+		audio_play_sound_on(emitter, snd_playerStep, false, 1, 0.2, 0, .8);
+	}
+} else {
+	audio_stop_sound(snd_playerStep);
+}
+audio_emitter_position(emitter, x, y, 0);
+
 audio_listener_position(x, y, 0);
