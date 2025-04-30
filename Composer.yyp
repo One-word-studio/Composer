@@ -122,6 +122,7 @@
     {"id":{"name":"spr_houseobjects","path":"sprites/spr_houseobjects/spr_houseobjects.yy",},},
     {"id":{"name":"spr_intro","path":"sprites/spr_intro/spr_intro.yy",},},
     {"id":{"name":"spr_inventory","path":"sprites/spr_inventory/spr_inventory.yy",},},
+    {"id":{"name":"spr_jigsawPieces","path":"sprites/spr_jigsawPieces/spr_jigsawPieces.yy",},},
     {"id":{"name":"spr_lose","path":"sprites/spr_lose/spr_lose.yy",},},
     {"id":{"name":"spr_nonwood","path":"sprites/spr_nonwood/spr_nonwood.yy",},},
     {"id":{"name":"spr_pianoKeyPlaceHolder","path":"sprites/spr_pianoKeyPlaceHolder/spr_pianoKeyPlaceHolder.yy",},},

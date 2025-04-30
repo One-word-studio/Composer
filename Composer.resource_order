@@ -48,6 +48,7 @@
     {"name":"spr_decorations2","order":6,"path":"sprites/spr_decorations2/spr_decorations2.yy",},
     {"name":"spr_end","order":1,"path":"sprites/spr_end/spr_end.yy",},
     {"name":"spr_houseobjects","order":1,"path":"sprites/spr_houseobjects/spr_houseobjects.yy",},
+    {"name":"spr_jigsawPieces","order":8,"path":"sprites/spr_jigsawPieces/spr_jigsawPieces.yy",},
     {"name":"spr_nonwood","order":2,"path":"sprites/spr_nonwood/spr_nonwood.yy",},
     {"name":"spr_pianoKeyPlaceHolder","order":1,"path":"sprites/spr_pianoKeyPlaceHolder/spr_pianoKeyPlaceHolder.yy",},
     {"name":"spr_placeHolderDialBase","order":1,"path":"sprites/spr_placeHolderDialBase/spr_placeHolderDialBase.yy",},
