@@ -7,3 +7,6 @@ global.particleSystem = part_system_create_layer(layer, true);
 global.soundParticle = particleSound
 
 startTime = current_time
+
+
+

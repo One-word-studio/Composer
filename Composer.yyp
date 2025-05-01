@@ -52,6 +52,7 @@
   },
   "name":"Composer",
   "resources":[
+    {"id":{"name":"fnt_timer","path":"fonts/fnt_timer/fnt_timer.yy",},},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
     {"id":{"name":"obj_blockClear","path":"objects/obj_blockClear/obj_blockClear.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
@@ -140,6 +141,7 @@
     {"id":{"name":"spr_jigsawTable","path":"sprites/spr_jigsawTable/spr_jigsawTable.yy",},},
     {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},},
     {"id":{"name":"spr_keyBroken","path":"sprites/spr_keyBroken/spr_keyBroken.yy",},},
+    {"id":{"name":"spr_lightmask","path":"sprites/spr_lightmask/spr_lightmask.yy",},},
     {"id":{"name":"spr_lose","path":"sprites/spr_lose/spr_lose.yy",},},
     {"id":{"name":"spr_nonwood","path":"sprites/spr_nonwood/spr_nonwood.yy",},},
     {"id":{"name":"spr_pianoKeyPlaceHolder","path":"sprites/spr_pianoKeyPlaceHolder/spr_pianoKeyPlaceHolder.yy",},},

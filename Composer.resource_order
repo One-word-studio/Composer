@@ -65,6 +65,7 @@
     {"name":"spr_jigsawTable","order":2,"path":"sprites/spr_jigsawTable/spr_jigsawTable.yy",},
     {"name":"spr_key","order":6,"path":"sprites/spr_key/spr_key.yy",},
     {"name":"spr_keyBroken","order":7,"path":"sprites/spr_keyBroken/spr_keyBroken.yy",},
+    {"name":"spr_lightmask","order":12,"path":"sprites/spr_lightmask/spr_lightmask.yy",},
     {"name":"spr_nonwood","order":2,"path":"sprites/spr_nonwood/spr_nonwood.yy",},
     {"name":"spr_pianoKeyPlaceHolder","order":1,"path":"sprites/spr_pianoKeyPlaceHolder/spr_pianoKeyPlaceHolder.yy",},
     {"name":"spr_placeHolderDialBase","order":1,"path":"sprites/spr_placeHolderDialBase/spr_placeHolderDialBase.yy",},
