@@ -1,0 +1,1 @@
+mp_grid_clear_rectangle(obj_composer.grid, x, y, x + sprite_width, y + sprite_height)
