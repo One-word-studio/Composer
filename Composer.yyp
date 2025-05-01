@@ -120,6 +120,8 @@
     {"id":{"name":"spr_composerSideIdle","path":"sprites/spr_composerSideIdle/spr_composerSideIdle.yy",},},
     {"id":{"name":"spr_composerUp","path":"sprites/spr_composerUp/spr_composerUp.yy",},},
     {"id":{"name":"spr_composerUpIdle","path":"sprites/spr_composerUpIdle/spr_composerUpIdle.yy",},},
+    {"id":{"name":"spr_crack_bluefloors","path":"sprites/spr_crack_bluefloors/spr_crack_bluefloors.yy",},},
+    {"id":{"name":"spr_crack_woodenfloors","path":"sprites/spr_crack_woodenfloors/spr_crack_woodenfloors.yy",},},
     {"id":{"name":"spr_crystal_A","path":"sprites/spr_crystal_A/spr_crystal_A.yy",},},
     {"id":{"name":"spr_crystal_B","path":"sprites/spr_crystal_B/spr_crystal_B.yy",},},
     {"id":{"name":"spr_crystal_C","path":"sprites/spr_crystal_C/spr_crystal_C.yy",},},

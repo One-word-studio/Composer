@@ -49,6 +49,8 @@
     {"name":"snd_success","order":5,"path":"sounds/snd_success/snd_success.yy",},
     {"name":"GM_spr_note","order":1,"path":"sprites/GM_spr_note/GM_spr_note.yy",},
     {"name":"spr_closet","order":6,"path":"sprites/spr_closet/spr_closet.yy",},
+    {"name":"spr_crack_bluefloors","order":15,"path":"sprites/spr_crack_bluefloors/spr_crack_bluefloors.yy",},
+    {"name":"spr_crack_woodenfloors","order":16,"path":"sprites/spr_crack_woodenfloors/spr_crack_woodenfloors.yy",},
     {"name":"spr_crystal_B","order":1,"path":"sprites/spr_crystal_B/spr_crystal_B.yy",},
     {"name":"spr_crystal_C","order":2,"path":"sprites/spr_crystal_C/spr_crystal_C.yy",},
     {"name":"spr_crystal_D","order":3,"path":"sprites/spr_crystal_D/spr_crystal_D.yy",},

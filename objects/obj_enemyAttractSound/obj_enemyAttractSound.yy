@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_editorPlaceholder",
-    "path":"sprites/spr_editorPlaceholder/spr_editorPlaceholder.yy",
+    "name":"spr_crack_bluefloors",
+    "path":"sprites/spr_crack_bluefloors/spr_crack_bluefloors.yy",
   },
   "spriteMaskId":null,
   "visible":true,
