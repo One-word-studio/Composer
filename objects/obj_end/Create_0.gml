@@ -1,7 +1,4 @@
-blink_interval = 60 * 0.7; // 2 seconds (60 is frames per second)
-
-// Counter to track the time
-blink_timer = 0;
-
-// Boolean to control visibility
-visible = true;
+alpha = 0; // Start fully transparent
+fade_speed = 0.05; // Adjust blinking speed
+fade_direction = 1; // 1 = fading in, -1 = fading out
+visible = false; // Start invisible

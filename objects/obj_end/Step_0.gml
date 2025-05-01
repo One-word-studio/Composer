@@ -1,18 +1,19 @@
-// Increment the timer
-blink_timer++;
-
-// Check if it's time to blink
-if (blink_timer >= blink_interval)
-{
-    // Toggle the visibility
-    visible = !visible;
-
-    // Reset the timer
-    blink_timer = 0;
-}
-if (keyboard_check_pressed(ord("R"))) {
-    room_goto(Main);
-}
-if (keyboard_check_pressed(ord("Q"))) {
-    game_end();
+// Only start blinking when image1 has stopped
+if (obj_credits.reached_target) {
+    visible = true;
+    
+    // Update alpha value
+    alpha += fade_speed * fade_direction;
+    
+    // Reverse direction when hitting limits
+    if (alpha >= 1) {
+        alpha = 1;
+        fade_direction = -1;
+    } else if (alpha <= 0) {
+        alpha = 0;
+        fade_direction = 1;
+    }
+    
+    // Set the image alpha
+    image_alpha = alpha;
 }
