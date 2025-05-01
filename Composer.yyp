@@ -143,6 +143,8 @@
     {"id":{"name":"spr_keyBroken","path":"sprites/spr_keyBroken/spr_keyBroken.yy",},},
     {"id":{"name":"spr_lightmask","path":"sprites/spr_lightmask/spr_lightmask.yy",},},
     {"id":{"name":"spr_lose","path":"sprites/spr_lose/spr_lose.yy",},},
+    {"id":{"name":"spr_missingpiano","path":"sprites/spr_missingpiano/spr_missingpiano.yy",},},
+    {"id":{"name":"spr_missingpianokeys","path":"sprites/spr_missingpianokeys/spr_missingpianokeys.yy",},},
     {"id":{"name":"spr_nonwood","path":"sprites/spr_nonwood/spr_nonwood.yy",},},
     {"id":{"name":"spr_pianoKeyPlaceHolder","path":"sprites/spr_pianoKeyPlaceHolder/spr_pianoKeyPlaceHolder.yy",},},
     {"id":{"name":"spr_placeHolderDialBase","path":"sprites/spr_placeHolderDialBase/spr_placeHolderDialBase.yy",},},
