@@ -129,6 +129,7 @@
     {"id":{"name":"spr_crystal_TUNE","path":"sprites/spr_crystal_TUNE/spr_crystal_TUNE.yy",},},
     {"id":{"name":"spr_decorations","path":"sprites/spr_decorations/spr_decorations.yy",},},
     {"id":{"name":"spr_decorations2","path":"sprites/spr_decorations2/spr_decorations2.yy",},},
+    {"id":{"name":"spr_dialPuzzleimage","path":"sprites/spr_dialPuzzleimage/spr_dialPuzzleimage.yy",},},
     {"id":{"name":"spr_editorPlaceholder","path":"sprites/spr_editorPlaceholder/spr_editorPlaceholder.yy",},},
     {"id":{"name":"spr_end","path":"sprites/spr_end/spr_end.yy",},},
     {"id":{"name":"spr_exitDoorMat","path":"sprites/spr_exitDoorMat/spr_exitDoorMat.yy",},},
