@@ -41,6 +41,7 @@ Once you’ve gathered all required objects, return to the foyer. Interact with 
 3. Cheat Codes
 For testing purposes, use the following command:
 Alt + P: Pause composer movement
+Alt + O: Remove all doors
 
 4. Licensing Information
 
