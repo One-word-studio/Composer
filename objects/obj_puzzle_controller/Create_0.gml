@@ -7,7 +7,7 @@ ds_map_add(global.note_sounds, "D", snd_D);
 
 // Generate random correct sequence
 global.correct_sequence = "";
-var len = 6;
+var len = 4;
 for (var i = 0; i < len; i++) {
     var pick = choose("A", "B", "C", "D");
     global.correct_sequence += pick;
