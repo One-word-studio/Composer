@@ -21,8 +21,9 @@ function addToInventory(item) {
 
 function removeFromInventory(item) {
 	with (obj_player) {
-		if (inventory[selected_slot] == item) {
-			array_delete(inventory, selected_slot, 1)
+		var index = array_get_index(inventory, item)
+		if (index > -1) {
+			array_delete(inventory, index, 1)
 			return true;
 		}
 		return false;	

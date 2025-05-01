@@ -23,13 +23,6 @@ if visible {
 	}
 }
 
-var number_key = string_digits(keyboard_lastchar)
-if string_length(number_key) {
-	if number_key > 0 && number_key < 3 {
-		selected_slot = number_key
-	}
-}
-
 /* 
  Set player walking sprite based on movement
  If movement along an axis didn't change but sprite facing that axis

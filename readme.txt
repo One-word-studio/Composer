@@ -11,8 +11,7 @@ Licensing Information
 Basic Controls:
 Move: Arrow Keys
 Interact: E
-Select Inventory Slot: 1, 2
-Pause Menu: Esc
+Close Incomplete Puzzle: Esc
 Objective – Escape the House:
 You are a student trapped in a haunted composer’s house. Explore different rooms, solve puzzles, collect items, and find your way out before encountering the composer. Each item you collect will help you move closer to unlocking the escape route.
 Inventory System:

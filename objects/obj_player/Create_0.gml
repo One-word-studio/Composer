@@ -1,6 +1,5 @@
 move_speed = 3
 interact_range = 64
-selected_slot = 0
 inventory = []
 
 audio_listener_orientation(0, 0, 1, 0, -1, 0);
