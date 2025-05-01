@@ -38,6 +38,6 @@ switch (fade_state) {
 image_alpha = clamp(image_alpha, 0, 1);
 
 //Skip Intro
-if (keyboard_check_released(vk_space)) {
+if (keyboard_check(vk_space)) {
 	room_goto(Main);	
 }

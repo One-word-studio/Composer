@@ -2,6 +2,8 @@ draw_set_alpha(0.3)
 draw_rectangle(15,15,200, 90, false)
 
 draw_set_alpha(1)
+draw_set_halign(fa_center);
+draw_set_valign(fa_middle);
 var currentTimerSeconds = floor((current_time - startTime)/1000)
 var currentTimerMinutes = floor(currentTimerSeconds/60)
 
@@ -15,6 +17,6 @@ if string_length(minuteString) = 1 {
 	minuteString = "0" + minuteString
 }
 
-draw_text_transformed_color(15, 15,
+draw_text_transformed_color(108, 55,
 	$"{minuteString}:{secondString}",
 	4, 4, 0, c_black, c_black, c_black, c_black, 1)
