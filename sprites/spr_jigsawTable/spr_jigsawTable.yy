@@ -44,8 +44,8 @@
   },
   "origin":9,
   "parent":{
-    "name":"JigsawPuzzle",
-    "path":"folders/Sprites/JigsawPuzzle.yy",
+    "name":"SlotPuzzle",
+    "path":"folders/Sprites/SlotPuzzle.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -9,6 +9,7 @@ if (!solved and active) {
 			// Dial puzzle completed
 			if (completions == 3) {
 				solved = true;
+				addToInventory(spr_keypadPlate)
 				view_visible[0] = true;
 				view_visible[1] = false;
 			}
