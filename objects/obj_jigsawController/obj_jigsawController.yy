@@ -10,8 +10,8 @@
   "name":"obj_jigsawController",
   "overriddenProperties":[],
   "parent":{
-    "name":"Jigsaw Puzzle",
-    "path":"folders/Objects/Jigsaw Puzzle.yy",
+    "name":"Jigsaw-Piano Puzzle",
+    "path":"folders/Objects/Jigsaw-Piano Puzzle.yy",
   },
   "parentObjectId":null,
   "persistent":false,

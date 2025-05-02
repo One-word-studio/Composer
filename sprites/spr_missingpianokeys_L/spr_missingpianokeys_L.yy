@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_missingpianokeys",
+  "%Name":"spr_missingpianokeys_L",
   "bboxMode":0,
-  "bbox_bottom":25,
+  "bbox_bottom":21,
   "bbox_left":0,
-  "bbox_right":3,
+  "bbox_right":5,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -13,15 +13,16 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"5bfdc7fc-e4b2-4951-aabe-262219028e56","name":"5bfdc7fc-e4b2-4951-aabe-262219028e56","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a9e4960e-28e5-4687-9981-ac043c902977","name":"a9e4960e-28e5-4687-9981-ac043c902977","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":26,
+  "height":22,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"94d85dd0-3c55-4ad4-9b53-cfdf014ae339","blendMode":0,"displayName":"default","isLocked":false,"name":"94d85dd0-3c55-4ad4-9b53-cfdf014ae339","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_missingpianokeys",
+  "name":"spr_missingpianokeys_L",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -33,7 +34,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_missingpianokeys",
+    "%Name":"spr_missingpianokeys_L",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -49,7 +50,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":2.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -57,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_missingpianokeys",
+    "name":"spr_missingpianokeys_L",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,14 +70,17 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5bfdc7fc-e4b2-4951-aabe-262219028e56","path":"sprites/spr_missingpianokeys/spr_missingpianokeys.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5bfdc7fc-e4b2-4951-aabe-262219028e56","path":"sprites/spr_missingpianokeys_L/spr_missingpianokeys_L.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"a56e5aab-342f-408e-b72e-51ae68fb7ae3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a9e4960e-28e5-4687-9981-ac043c902977","path":"sprites/spr_missingpianokeys_L/spr_missingpianokeys_L.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a91e19f8-f019-411a-ae06-a4c4e035a177","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":2,
-    "yorigin":13,
+    "xorigin":3,
+    "yorigin":11,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
@@ -86,5 +90,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":4,
+  "width":6,
 }
