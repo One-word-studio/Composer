@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_editorPlaceholder",
-    "path":"sprites/spr_editorPlaceholder/spr_editorPlaceholder.yy",
+    "name":"spr_door",
+    "path":"sprites/spr_door/spr_door.yy",
   },
   "spriteMaskId":null,
   "visible":true,

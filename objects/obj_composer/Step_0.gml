@@ -44,7 +44,7 @@ if obj_player.visible and
 		
 	var direction_to_player = point_direction (x, y-35, obj_player.x , obj_player.y);
     var angleToTarget = angle_difference(direction_to_player, angle);
-	if (abs(angleToTarget) < 60 + chasing * 10) {
+	if (abs(angleToTarget) < 55 + chasing * 10) {
 		chasing = true
 		target = obj_player
 		if (!sound_triggered && !audio_is_playing(snd_composerTriggered)) {

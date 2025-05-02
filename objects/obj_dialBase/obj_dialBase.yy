@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_placeHolderDialBase",
-    "path":"sprites/spr_placeHolderDialBase/spr_placeHolderDialBase.yy",
+    "name":"spr_dialPuzzleimage",
+    "path":"sprites/spr_dialPuzzleimage/spr_dialPuzzleimage.yy",
   },
   "spriteMaskId":null,
   "visible":true,

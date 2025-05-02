@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_placeHolderInteractive",
-    "path":"sprites/spr_placeHolderInteractive/spr_placeHolderInteractive.yy",
+    "name":"spr_codePuzzleImage",
+    "path":"sprites/spr_codePuzzleImage/spr_codePuzzleImage.yy",
   },
   "spriteMaskId":null,
   "visible":true,
