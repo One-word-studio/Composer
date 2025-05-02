@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_composerTriggered",
+  "%Name":"snd_puzzleFail",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":14.045,
-  "name":"snd_composerTriggered",
+  "duration":0.0,
+  "name":"snd_puzzleFail",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -18,8 +18,8 @@
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
-  "sampleRate":48000,
-  "soundFile":"snd_composerTriggered.mp3",
-  "type":1,
+  "sampleRate":44100,
+  "soundFile":"snd_puzzleFail",
+  "type":0,
   "volume":1.0,
 }
