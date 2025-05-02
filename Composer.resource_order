@@ -102,6 +102,7 @@
     {"name":"spr_missingpianokeys_S","order":7,"path":"sprites/spr_missingpianokeys_S/spr_missingpianokeys_S.yy",},
     {"name":"spr_missingpianokeys_Tf","order":1,"path":"sprites/spr_missingpianokeys_Tf/spr_missingpianokeys_Tf.yy",},
     {"name":"spr_missingpianokeys","order":2,"path":"sprites/spr_missingpianokeys/spr_missingpianokeys.yy",},
+    {"name":"spr_musicSheet","order":1,"path":"sprites/spr_musicSheet/spr_musicSheet.yy",},
     {"name":"spr_nonwood","order":2,"path":"sprites/spr_nonwood/spr_nonwood.yy",},
     {"name":"spr_numbersCode","order":1,"path":"sprites/spr_numbersCode/spr_numbersCode.yy",},
     {"name":"spr_pianoKeyboard","order":6,"path":"sprites/spr_pianoKeyboard/spr_pianoKeyboard.yy",},

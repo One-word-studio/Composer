@@ -179,6 +179,7 @@
     {"id":{"name":"spr_missingpianokeys_S","path":"sprites/spr_missingpianokeys_S/spr_missingpianokeys_S.yy",},},
     {"id":{"name":"spr_missingpianokeys_Tf","path":"sprites/spr_missingpianokeys_Tf/spr_missingpianokeys_Tf.yy",},},
     {"id":{"name":"spr_missingpianokeys","path":"sprites/spr_missingpianokeys/spr_missingpianokeys.yy",},},
+    {"id":{"name":"spr_musicSheet","path":"sprites/spr_musicSheet/spr_musicSheet.yy",},},
     {"id":{"name":"spr_nonwood","path":"sprites/spr_nonwood/spr_nonwood.yy",},},
     {"id":{"name":"spr_numbersCode","path":"sprites/spr_numbersCode/spr_numbersCode.yy",},},
     {"id":{"name":"spr_pianoKeyboard","path":"sprites/spr_pianoKeyboard/spr_pianoKeyboard.yy",},},
