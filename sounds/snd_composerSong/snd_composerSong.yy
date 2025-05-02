@@ -20,6 +20,6 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"snd_composerSong.mp3",
-  "type":1,
+  "type":2,
   "volume":1.0,
 }

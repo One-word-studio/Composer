@@ -47,9 +47,14 @@ if obj_player.visible and
 	if (abs(angleToTarget) < 60 + chasing * 10) {
 		chasing = true
 		target = obj_player
+		if (!sound_triggered && !audio_is_playing(snd_composerTriggered)) {
+			audio_play_sound(snd_composerTriggered, 1, false)
+			sound_triggered = true
+		}
     }
 } else {
 	chasing = false
+	sound_triggered = false
 }
 
 if (!string_ends_with(sprite_get_name(sprite_index), "Idle")) {
