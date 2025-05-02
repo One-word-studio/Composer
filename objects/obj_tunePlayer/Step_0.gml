@@ -2,10 +2,10 @@
 if (last_interaction_time != -1 && current_time - last_interaction_time > 30000) {
     global.player_sequence = "";
     last_interaction_time = -1;
-    audio_play_sound(snd_error, 1, false);
+	audio_play_sound_on(emitter, snd_error, false, 1)
 }
 
-if (interacted) {
+if (!global.puzzle_complete and interacted) {
 	global.player_sequence = "";
 	last_interaction_time = current_time;
 	event_user(0);

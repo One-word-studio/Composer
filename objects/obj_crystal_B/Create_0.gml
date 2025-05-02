@@ -1,4 +1,4 @@
+// Inherit the parent event
+event_inherited();
 
-key_letter = "b";
-interacted = false; // Explicit interaction flag
-in_range = false;
+note = "B"

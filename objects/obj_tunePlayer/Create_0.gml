@@ -28,10 +28,10 @@ if (!variable_global_exists("player_sequence")) {
     global.player_sequence = "";
 }
 
-if (!variable_global_exists("debug_mode")) {
-    global.debug_mode = false; // Default to false
-}
-
 if (!variable_global_exists("puzzle_complete")) {
     global.puzzle_complete = false;
 }
+
+emitter = audio_emitter_create();
+audio_emitter_falloff(emitter, 100, 2500, 1)
+audio_emitter_position(emitter, x, y, 0);

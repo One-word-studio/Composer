@@ -12,4 +12,3 @@ for (var i = 0; i < string_length(global.correct_sequence); i++) {
 }
 
 alarm[0] = 1;
-interacted = false;
