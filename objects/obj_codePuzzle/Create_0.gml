@@ -1,3 +1,3 @@
 event_inherited();
 inputString = "";
-maxDigits = 4;
+maxDigits = 4

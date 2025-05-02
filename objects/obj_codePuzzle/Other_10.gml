@@ -21,14 +21,8 @@ if (interacted) {
 
     // Enter
     if (keyboard_check_pressed(vk_enter)) {
-        if (inputString == obj_devGlobal.code) {
-            show_message("Correct! Unlocked!");
-            // Do unlock logic here
-            active = false;
-			interacted = false;
-        } else {
-            show_message("Incorrect!");
-            inputString = ""; // Reset
-        }
-    }
+        alarm_set(0, 1)
+    } else if (alarm_get(0) = -1 and string_length(inputString) == 4) {
+		alarm_set(0, 30)
+	}
 }
