@@ -53,6 +53,7 @@
   },
   "name":"Composer",
   "resources":[
+    {"id":{"name":"custom_fnt","path":"fonts/custom_fnt/custom_fnt.yy",},},
     {"id":{"name":"fnt_timer","path":"fonts/fnt_timer/fnt_timer.yy",},},
     {"id":{"name":"fnt_tutorialText","path":"fonts/fnt_tutorialText/fnt_tutorialText.yy",},},
     {"id":{"name":"obj_back_button","path":"objects/obj_back_button/obj_back_button.yy",},},

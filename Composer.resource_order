@@ -20,6 +20,7 @@
     {"name":"WinScreen","order":12,"path":"folders/Sprites/WinScreen.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"custom_fnt","order":2,"path":"fonts/custom_fnt/custom_fnt.yy",},
     {"name":"fnt_tutorialText","order":1,"path":"fonts/fnt_tutorialText/fnt_tutorialText.yy",},
     {"name":"obj_back_button","order":4,"path":"objects/obj_back_button/obj_back_button.yy",},
     {"name":"obj_blockClear","order":16,"path":"objects/obj_blockClear/obj_blockClear.yy",},
