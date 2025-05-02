@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":29.2613,
+  "duration":79.9997,
   "name":"snd_composerSong",
   "parent":{
     "name":"Sounds",
