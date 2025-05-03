@@ -12,30 +12,32 @@ Basic Controls:
 Move: Arrow Keys
 Interact: E
 Close Incomplete Puzzle: Esc
+Mouse Left Click + Drag: In certain Puzzle
+
 Objective – Escape the House:
 You are a student trapped in a haunted composer’s house. Explore different rooms, solve puzzles, collect items, and find your way out before encountering the composer. Each item you collect will help you move closer to unlocking the escape route.
-Inventory System:
-You have 2 inventory slots, always visible at the bottom of the screen. Select items using keys 1 and 2. Use items to interact with objects in the house. Choose wisely — not every item will help you immediately.
 Puzzle Solving:
 The game features puzzles that involve:
 Matching tones played
-Reconstructing broken visual patterns
-Decoding short cryptic notes
-Solving puzzles opens new rooms or reveals crucial items needed for the final escape.
+Reconstructing broken items
+Timing Puzzles
+Reveals crucial items needed for the other puzzles and final escape.
 Composer Threat:
-The composer randomly patrols parts of the house. If he catches you, the game resets to your most recent checkpoint. Watch and listen carefully — his presence is often announced by footsteps or whispering.
+The composer can hear certain sounds. Watch and listen carefully — his presence is often announced by footsteps.
 
 2. Game Walkthrough
 Game Start:
-You begin in the bottom-left room of the house. The main entrance locks behind you, and you must begin your search for clues.
+You begin in the bottom-left room of the house
 Progression Flow:
-Explore the house room by room. Use collected items to unlock access to new rooms. Some examples of item progression:
-Use a rusty key to unlock the reading room
-A sheet of music placed on a stand reveals a wall safe combination
-A mirror shard reflects light to reveal a code
-Your goal is to collect the final items required to trigger the escape mechanism in the main foyer.
+Explore the house room by room. Use collected items to unlock complete puzzles. 
+Some examples of item progression:
+	Use a key to unlock the door
+	A using items gained from one puzzle with other interactive to solve another puzzle
+	Your goal is to collect the final items required to trigger the escape with the music sheet hidden somewhere in the house.
 Final Escape:
-Once you’ve gathered all required objects, return to the foyer. Interact with the grand piano and play keys in a specific sequence to activate the exit. Escape before the composer appears — or risk being caught in the final seconds.
+Once you’ve gathered all required objects, Escape from the main door
+
+Every Room has a hiding place if the composer is coming towards you hide before he sees you. He is quiet forgetful so he will leave quickly if you are hidden.
 
 3. Cheat Codes
 For testing purposes, use the following command:

@@ -18,5 +18,5 @@ if (complete_count == array_size) {
 	view_visible[2] = false;
 	addToInventory(spr_key)
 	complete_count = 0
-	obj_jigsawInteractive.active = false
+	instance_destroy(obj_jigsawInteractive)
 }
