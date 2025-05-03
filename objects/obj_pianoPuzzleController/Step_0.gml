@@ -19,5 +19,5 @@ if (complete_count == array_size) {
 	removeFromInventory(spr_missingpianokeys)
 	addToInventory(spr_key)
 	complete_count = 0
-	obj_jigsawInteractive.active = false
+	obj_pianoInteractive.active = false
 }
