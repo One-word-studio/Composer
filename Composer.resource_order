@@ -67,6 +67,7 @@
     {"name":"snd_menuMusic","order":8,"path":"sounds/snd_menuMusic/snd_menuMusic.yy",},
     {"name":"snd_playerStep","order":2,"path":"sounds/snd_playerStep/snd_playerStep.yy",},
     {"name":"snd_puzzleFail","order":9,"path":"sounds/snd_puzzleFail/snd_puzzleFail.yy",},
+    {"name":"snd_squeakyFloor","order":10,"path":"sounds/snd_squeakyFloor/snd_squeakyFloor.yy",},
     {"name":"snd_success","order":5,"path":"sounds/snd_success/snd_success.yy",},
     {"name":"GM_spr_note","order":1,"path":"sprites/GM_spr_note/GM_spr_note.yy",},
     {"name":"spr_button_back","order":5,"path":"sprites/spr_button_back/spr_button_back.yy",},

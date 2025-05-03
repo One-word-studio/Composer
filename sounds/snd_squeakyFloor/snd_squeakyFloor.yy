@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_squeakyFloor",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":256,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.37875,
+  "name":"snd_squeakyFloor",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":32000,
+  "soundFile":"snd_squeakyFloor.wav",
+  "type":1,
+  "volume":1.0,
+}
