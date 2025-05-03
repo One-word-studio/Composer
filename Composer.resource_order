@@ -36,6 +36,7 @@
     {"name":"obj_dialDot","order":1,"path":"objects/obj_dialDot/obj_dialDot.yy",},
     {"name":"obj_door","order":10,"path":"objects/obj_door/obj_door.yy",},
     {"name":"obj_enemyAttractSound","order":9,"path":"objects/obj_enemyAttractSound/obj_enemyAttractSound.yy",},
+    {"name":"obj_exitBlocker","order":21,"path":"objects/obj_exitBlocker/obj_exitBlocker.yy",},
     {"name":"obj_hide_1","order":19,"path":"objects/obj_hide_1/obj_hide_1.yy",},
     {"name":"obj_hide_2","order":20,"path":"objects/obj_hide_2/obj_hide_2.yy",},
     {"name":"obj_hide","order":12,"path":"objects/obj_hide/obj_hide.yy",},

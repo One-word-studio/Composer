@@ -13,5 +13,10 @@ if (array_contains(obj_player.inventory, spr_keypadPlate)) {
 				361 + 34 * floor((digit - 1)/3))
 		}
 	}
+} else {
+	var prevColor = draw_get_color()
+	draw_set_color(c_red)
+	draw_text_transformed(2090, 420, "Missing", 1, 1, 90)
+	draw_text_transformed(2212, 420, "Something", 1, 1, 270)
+	draw_set_color(prevColor)
 }
-

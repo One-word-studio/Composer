@@ -77,6 +77,7 @@
     {"id":{"name":"obj_dialDot","path":"objects/obj_dialDot/obj_dialDot.yy",},},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"obj_enemyAttractSound","path":"objects/obj_enemyAttractSound/obj_enemyAttractSound.yy",},},
+    {"id":{"name":"obj_exitBlocker","path":"objects/obj_exitBlocker/obj_exitBlocker.yy",},},
     {"id":{"name":"obj_hide_1","path":"objects/obj_hide_1/obj_hide_1.yy",},},
     {"id":{"name":"obj_hide_2","path":"objects/obj_hide_2/obj_hide_2.yy",},},
     {"id":{"name":"obj_hide","path":"objects/obj_hide/obj_hide.yy",},},

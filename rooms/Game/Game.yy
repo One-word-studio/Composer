@@ -121,11 +121,13 @@
     {"name":"inst_3716A788","path":"rooms/Game/Game.yy",},
     {"name":"inst_5F37488E","path":"rooms/Game/Game.yy",},
     {"name":"inst_113C27D1","path":"rooms/Game/Game.yy",},
+    {"name":"inst_22206302","path":"rooms/Game/Game.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_above","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_2943D074","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2943D074","objectId":{"name":"obj_jigsawInteractive","path":"objects/obj_jigsawInteractive/obj_jigsawInteractive.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.21304575,"scaleY":0.21304573,"x":1551.0629,"y":1005.89795,},
+        {"$GMRInstance":"v1","%Name":"inst_22206302","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_22206302","objectId":{"name":"obj_exitBlocker","path":"objects/obj_exitBlocker/obj_exitBlocker.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.4791667,"scaleY":0.7291667,"x":861.0,"y":1047.0,},
       ],"layers":[],"name":"Instances_above","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"tileset_defaultobj_above","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"tileset_defaultobj_above","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":68,"SerialiseWidth":183,"TileCompressedData":[
           -39,-2147483648,4,1057,1058,1059,1060,-32,-2147483648,4,1057,1058,1059,1060,-143,-2147483648,4,1105,
@@ -808,7 +810,7 @@
     {"hborder":960,"hport":1080,"hspeed":0,"hview":180,"inherit":false,"objectId":{"name":"obj_dialBase","path":"objects/obj_dialBase/obj_dialBase.yy",},"vborder":540,"visible":false,"vspeed":0,"wport":1920,"wview":320,"xport":0,"xview":1976,"yport":0,"yview":880,},
     {"hborder":32,"hport":1080,"hspeed":-1,"hview":150,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1920,"wview":300,"xport":0,"xview":1984,"yport":0,"yview":96,},
     {"hborder":32,"hport":1080,"hspeed":-1,"hview":150,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1920,"wview":300,"xport":0,"xview":2380,"yport":0,"yview":390,},
-    {"hborder":32,"hport":1080,"hspeed":-1,"hview":153,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1920,"wview":272,"xport":0,"xview":2016,"yport":0,"yview":352,},
+    {"hborder":32,"hport":1080,"hspeed":-1,"hview":153,"inherit":false,"objectId":null,"vborder":32,"visible":true,"vspeed":-1,"wport":1920,"wview":272,"xport":0,"xview":2016,"yport":0,"yview":352,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
