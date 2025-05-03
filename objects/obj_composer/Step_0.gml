@@ -5,10 +5,18 @@ if (paused) {
 
 if instance_exists(target)
 {
-    if mp_grid_path(grid, path, x, y, target.x, target.y, 0)
+    if mp_grid_path(grid, path, x, y, target.x, target.y-16, 0)
     {
         path_start(path, 2 + chasing * 0.5, 0, 0);
     }
+	
+	if (audio_is_playing(snd_composerSong)) {
+		audio_stop_sound(snd_composerSong);
+	}
+	if (!sound_triggered && !audio_is_playing(snd_composerTriggered)) {
+		audio_play_sound(snd_composerTriggered, 1, false)
+		sound_triggered = true
+	}
 	target = noone
 }
 
@@ -40,11 +48,12 @@ if (deltaY > 1) {
 }
 
 if obj_player.visible and 
+	(not chasing) and
 	not collision_line(x, y, obj_player.x, obj_player.y, obj_block, false, false) {
 		
 	var direction_to_player = point_direction (x, y-35, obj_player.x , obj_player.y);
     var angleToTarget = angle_difference(direction_to_player, angle);
-	if (abs(angleToTarget) < 55 + chasing * 10) {
+	if (abs(angleToTarget) < 60 + chasing * 10) {
 		chasing = true
 		target = obj_player
 		if (audio_is_playing(snd_composerSong)) {
@@ -65,11 +74,8 @@ if (chasing) {
 	}
 }
 
-	
-
 if (!string_ends_with(sprite_get_name(sprite_index), "Idle")) {
 	if !audio_is_playing(snd_composerStep) {
-		//audio_play_sound(snd_step, 1, 1)
 		audio_play_sound_on(emitter, snd_composerStep, false, 1)
 	}
 } else {

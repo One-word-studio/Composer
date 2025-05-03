@@ -1,5 +1,4 @@
 if (current_index < array_length(sound_queue)) {
-    audio_stop_all();
     var snd = sound_queue[current_index];
     audio_play_sound(snd, 1, false);
     current_index++;

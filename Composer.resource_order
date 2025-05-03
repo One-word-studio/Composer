@@ -24,6 +24,7 @@
     {"name":"fnt_tutorialText","order":1,"path":"fonts/fnt_tutorialText/fnt_tutorialText.yy",},
     {"name":"obj_back_button","order":4,"path":"objects/obj_back_button/obj_back_button.yy",},
     {"name":"obj_blockClear","order":16,"path":"objects/obj_blockClear/obj_blockClear.yy",},
+    {"name":"obj_blockWalkthrough","order":22,"path":"objects/obj_blockWalkthrough/obj_blockWalkthrough.yy",},
     {"name":"obj_clockEmitter","order":17,"path":"objects/obj_clockEmitter/obj_clockEmitter.yy",},
     {"name":"obj_codePuzzle","order":1,"path":"objects/obj_codePuzzle/obj_codePuzzle.yy",},
     {"name":"obj_credits","order":4,"path":"objects/obj_credits/obj_credits.yy",},

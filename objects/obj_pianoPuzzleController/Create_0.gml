@@ -19,12 +19,15 @@ pieces = [
 array_size = array_length(pieces)
 complete_count = 0
 
+var xModifier = (x - sprite_width/2)
+var yModifier = (y - sprite_height/2)
+
 for (i = 0; i < array_size; i++) {
-	pieces[i].x += x
-	pieces[i].y += y
+	pieces[i].x += xModifier
+	pieces[i].y += yModifier
 	
 	pieces[i].inst = instance_create_depth(
-		x + random(270), y + random(120), 
+		xModifier + 10 + random(270), yModifier + 10 + random(120), 
 		10, obj_jigsawPiece, {
 		sprite_index: pieces[i].sprite
 	})
