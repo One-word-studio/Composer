@@ -10,6 +10,7 @@ prevY = 9999
 emitter = audio_emitter_create();
 audio_emitter_falloff(emitter, 100, 2500, 1)
 sound_triggered = false
+audio_play_sound_on(emitter, snd_composerSong, true, 1, 0.6);
 
 target = noone
 chasing = false

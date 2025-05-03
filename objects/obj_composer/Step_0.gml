@@ -47,6 +47,9 @@ if obj_player.visible and
 	if (abs(angleToTarget) < 55 + chasing * 10) {
 		chasing = true
 		target = obj_player
+		if (audio_is_playing(snd_composerSong)) {
+			audio_stop_sound(snd_composerSong);
+		}
 		if (!sound_triggered && !audio_is_playing(snd_composerTriggered)) {
 			audio_play_sound(snd_composerTriggered, 1, false)
 			sound_triggered = true
