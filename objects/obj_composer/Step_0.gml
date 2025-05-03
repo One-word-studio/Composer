@@ -59,6 +59,13 @@ if obj_player.visible and
 	chasing = false
 	sound_triggered = false
 }
+if (chasing) {
+	if (!audio_is_playing(snd_composerTriggered)) {
+		audio_play_sound(snd_composerTriggered, 1, false);
+	}
+}
+
+	
 
 if (!string_ends_with(sprite_get_name(sprite_index), "Idle")) {
 	if !audio_is_playing(snd_composerStep) {

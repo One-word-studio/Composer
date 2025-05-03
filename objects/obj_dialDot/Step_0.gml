@@ -18,5 +18,9 @@ if (!solved and active) {
 				event_user(0);
 			}
 		}
+		else {
+			audio_play_sound(snd_puzzleFail, 1, false);
+			obj_composer.target = obj_dialController;
+		}
 	}
 }
