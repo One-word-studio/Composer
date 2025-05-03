@@ -11,7 +11,7 @@ var seconds = elapsed_seconds mod 60;
 // Format minutes and seconds with leading zeros
 var minuteString = (minutes < 10) ? "0" + string(minutes) : string(minutes);
 var secondString = (seconds < 10) ? "0" + string(seconds) : string(seconds);
-var timeText = minuteString + ":" + secondString;
+timeText = minuteString + ":" + secondString;
 
 // Save current settings
 var prev_font = draw_get_font();

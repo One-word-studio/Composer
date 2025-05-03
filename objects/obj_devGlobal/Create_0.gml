@@ -8,5 +8,4 @@ global.soundParticle = particleSound
 
 startTime = current_time
 
-
-
+timeText = ""
