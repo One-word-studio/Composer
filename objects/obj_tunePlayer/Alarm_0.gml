@@ -13,7 +13,7 @@ if (current_index < array_length(sound_queue)) {
         global.puzzle_complete = true;
         // Add completion effects here
     } else if (string_length(global.player_sequence) >= string_length(global.correct_sequence)) {
-        audio_play_sound(snd_error, 1, false);
+        audio_play_sound(snd_puzzleFail, 1, false);
         global.player_sequence = "";
     }
 }
