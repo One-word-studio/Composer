@@ -7,16 +7,16 @@ if instance_exists(target)
 {
     if mp_grid_path(grid, path, x, y, target.x, target.y-16, 0)
     {
-        path_start(path, 2 + chasing * 0.5, 0, 0);
+        path_start(path, 2 + chasing * 0.5, 0, 0)
+		
+		if (audio_is_playing(snd_composerSong)) {
+			audio_stop_sound(snd_composerSong);
+		}
+		if (!sound_triggered && !audio_is_playing(snd_composerTriggered)) {
+			audio_play_sound(snd_composerTriggered, 1, false)
+			sound_triggered = true
+		}
     }
-	
-	if (audio_is_playing(snd_composerSong)) {
-		audio_stop_sound(snd_composerSong);
-	}
-	if (!sound_triggered && !audio_is_playing(snd_composerTriggered)) {
-		audio_play_sound(snd_composerTriggered, 1, false)
-		sound_triggered = true
-	}
 	target = noone
 }
 
