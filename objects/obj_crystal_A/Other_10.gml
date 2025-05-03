@@ -14,7 +14,7 @@ if (string_length(global.player_sequence) == string_length(global.correct_sequen
 		audio_play_sound_on(emitter, snd_success, false, 1)
     } else {
         global.player_sequence = "";
-		audio_play_sound_on(emitter, snd_error, false, 1)
+		audio_play_sound_on(emitter, snd_puzzleFail, false, 1)
     }
 }
 interacted = false;
