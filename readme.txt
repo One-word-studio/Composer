@@ -1,11 +1,5 @@
 Composer Game Documentation
-Last Updated: 4/21/2025
-
-Contents
-Game Instructions
-Game Walkthrough
-Cheat Codes
-Licensing Information
+Team: Aidan Pilato, Smit Sakariya, Talha Kavaz, Sourabh Kumar Dubey
 
 1. Game Instructions
 Basic Controls:
@@ -43,6 +37,7 @@ Every Room has a hiding place if the composer is coming towards you hide before 
 For testing purposes, use the following command:
 Alt + P: Pause composer movement
 Alt + O: Remove all doors
+Alt + L: Go to win screen
 
 4. Licensing Information
 
